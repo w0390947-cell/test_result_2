@@ -1,0 +1,4 @@
+Z	Element	Family	Atomic Fraction (%)	Atomic Error (%)	Mass Fraction (%)	Mass Error (%)	Fit Error (%)	
+7	N	K	13.02	1.61	6.53	0.68	1.03	
+8	O	K	58.63	5.35	33.61	5.22	1.69	
+27	Co	K	28.35	4.29	59.86	5.15	0.22	
